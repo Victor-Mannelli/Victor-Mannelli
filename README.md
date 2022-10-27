@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:yann.melO@gmail.com)](mailto:imp.mannelli@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:imp.mannelli@gmail.com)](mailto:imp.mannelli@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
 
 ### Languages and Tools:
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-VSCode-&?style=for-the-badge&logo=visualstudiocode&color=black&logoColor=0076C6" alt="Visual studio code logo" />
 </div>
 
----
+***
 
 <div align="center">
     <h2 align="center">My github stats 🧮<h2>
