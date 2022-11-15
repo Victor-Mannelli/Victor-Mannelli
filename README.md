@@ -22,10 +22,10 @@
 <!--   <img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="Typescript logo" /> -->
   <img src="https://img.shields.io/badge/-HTML-&?style=for-the-badge&logo=html5&color=black" alt="HTML logo" />
   <img src="https://img.shields.io/badge/-CSS-&?style=for-the-badge&logo=css3&color=black" alt="CSS logo" />
+  <img src="https://img.shields.io/badge/-MongoDB-&?style=for-the-badge&logo=mongodb&color=black" alt="Mongo logo" />
 <!--   <img src="https://img.shields.io/badge/-NodeJS-&?style=for-the-badge&logo=nodedotjs&color=black" alt="Node logo" />
   <img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" />
   <img src="https://img.shields.io/badge/-PostgreSQL-&?style=for-the-badge&logo=postgresql&color=black" alt="Postgres logo" />
-  <img src="https://img.shields.io/badge/-MongoDB-&?style=for-the-badge&logo=mongodb&color=black" alt="Mongo logo" />
   <img src="https://img.shields.io/badge/-typeorm-&?style=for-the-badge&logo=typeorm&color=black" alt="Typeorm logo" />
   <img src="https://img.shields.io/badge/-Prisma-&?style=for-the-badge&logo=prisma&color=black" alt="Prisma logo" />
   <img src="https://img.shields.io/badge/-Express-&?style=for-the-badge&logo=express&color=black" alt="Express logo" /> -->
