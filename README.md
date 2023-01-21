@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Victor Mannelli <img width="30" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" </h2>
-
+<br/>
 - 🌱 I’m currently learning Full Stack Development at Driven Education
 - 👯 I’m looking to collaborate with other programmers
 - 😄 Pronouns: he/him
@@ -8,7 +8,7 @@
 
 * * * 
 
-<h2> Contact me 🤝 <h2/>
+<h2 align="center"> Contact me 🤝 <h2/>
   
 <div align="center">
 
