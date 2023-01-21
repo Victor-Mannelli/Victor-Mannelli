@@ -1,4 +1,6 @@
-### Hi there, I'm Victor - aka [Whicliph] 👋
+<h2 align="center"> Hi there, I'm Victor - aka [Whicliph] 👋 </h2>
+
+* * * 
 
 ## About Me
 
@@ -12,8 +14,8 @@
 
 <div>
   <h2> Connect with me: <h2/>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
 </div>
 
 * * *
@@ -44,7 +46,7 @@
     <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
 </div>
-_____
+<div align="center"> _____ </div>
 <div align="center">
 <!--   <a href="http://www.python.org/" target="blank">
     <img width="80" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
@@ -94,7 +96,7 @@ _____
     </a>
   </div>
  _____
-  <div>
+  <div align="center">
     <a href="http://pt-br.reactjs.org/" target="blank">
        <img width="80" height="30" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&color=5ed2f2" /> 
     </a>
