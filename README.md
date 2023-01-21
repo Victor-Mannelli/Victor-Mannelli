@@ -10,10 +10,10 @@
 
 * * * 
 
-<h2> Connect with me: <h2/>
+<h2 align="center"> Connect with me: <h2/>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&align=center)](mailto:imp.mannelli@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&align=center)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
 
 * * *
 
@@ -29,7 +29,7 @@
 
 
 <div align="center">
-  <h2> Languages 📝: </h2>
+  <h2> Languages 📝 </h2>
 <!--   <a href="http://www.python.org/" target="blank">
     <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   </a> -->
@@ -43,7 +43,7 @@
     <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
 </div>
-<div></div>
+<br/>
 <div align="center">
 <!--   <a href="http://www.python.org/" target="blank">
     <img width="80" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
@@ -63,7 +63,7 @@
 
 <div>
   <div align="center">
-    <h2> Tools and Libraries 🛠: </h2>
+    <h2> Tools and Libraries 🛠 </h2>
     <a href="http://reactjs.org/" target="blank">
       <img align="center" alt="iconReact" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </a>
