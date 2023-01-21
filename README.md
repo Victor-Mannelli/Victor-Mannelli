@@ -10,11 +10,9 @@
 
 * * * 
 
-<h2 align="center"> Contact me 🤝 <h2/>
-<div>
+<h2> Contact me 🤝 <h2/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
-</div>
 
 * * *
 
@@ -76,7 +74,7 @@
       <img align="center" alt="eslint" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
     </a>
     <a href="https://www.prisma.io/" target="blank">
-      <img width="80" height"60" alt="prisma" src="https://www.svgrepo.com/show/373776/light-prisma.svg"/>
+      <img align="center" width="80" height"60" alt="prisma" src="https://www.svgrepo.com/show/373776/light-prisma.svg"/>
     </a>
     <a href="https://www.postgresql.org/" target="blank">
       <img align="center" alt="postgresql" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -102,8 +100,8 @@
     <a href="https://eslint.org/" target="blank">
        <img width="80" height="30" alt="eslint" src="https://img.shields.io/badge/-Eslint-blue?style=for-the-badge&color=4c63ba" /> 
     </a>
-    <a href="https://www.mongodb.com/home" target="blank">
-       <img width="80" height="30" alt="mongodb" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
+    <a href="https://www.prisma.io/" target="blank">
+       <img width="80" height="30" alt="prisma" src="https://img.shields.io/badge/-prisma-blue?style=for-the-badge&color=071f2d" /> 
     </a>
     <a href="https://www.postgresql.org/" target="blank">
        <img width="80" height="30" alt="postgresql" src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
@@ -154,8 +152,8 @@
     <a href="https://vercel.com/" target="blank">
        <img width="80" height="30" alt="vercel" src="https://img.shields.io/badge/-vercel-blue?style=for-the-badge&color=fff" /> 
     </a>
-    <a href="https://www.prisma.io/" target="blank">
-       <img width="80" height="30" alt="prisma" src="https://img.shields.io/badge/-prisma-blue?style=for-the-badge&color=071f2d" /> 
+     <a href="https://www.mongodb.com/home" target="blank">
+       <img width="80" height="30" alt="mongodb" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
     </a>
   </div>
 
