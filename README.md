@@ -70,7 +70,7 @@
       <img align="center" alt="typescriptlang" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     </a>
     <a href="https://expressjs.com/" target="blank">
-      <img align="center" alt="express" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      <img align="center" alt="express" height"60" width="80" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     </a>
     <a href="https://eslint.org/" target="blank">
       <img align="center" alt="eslint" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
@@ -102,8 +102,8 @@
     <a href="https://eslint.org/" target="blank">
        <img width="80" height="30" alt="eslint" src="https://img.shields.io/badge/-Eslint-blue?style=for-the-badge&color=4c63ba" /> 
     </a>
-    <a href="https://www.mongodb.com/home" target="blank">
-       <img width="80" height="30" alt="mongodb" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
+    <a href="https://www.prisma.io/" target="blank">
+      <img width="80" height"60" alt="prisma" src="https://www.svgrepo.com/show/373776/light-prisma.svg"/>
     </a>
     <a href="https://www.postgresql.org/" target="blank">
        <img width="80" height="30" alt="postgresql" src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
@@ -131,10 +131,10 @@
       <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </a>
     <a href="https://vercel.com/" target="blank">
-      <img align="center" alt="vercel" height"60" width="80" color="white" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
+      <img align="center" alt="vercel" height"60" width="80" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
     </a>
-    <a href="https://www.prisma.io/" target="blank">
-      <img align="center" alt="prisma" height"60" width="80" src="https://www.svgrepo.com/show/373776/light-prisma.svg"/>
+    <a href="https://www.mongodb.com/home" target="blank">
+       <img width="80" height="30" alt="mongodb" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
     </a>
 
   </div>
