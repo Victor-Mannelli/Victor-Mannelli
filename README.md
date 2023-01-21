@@ -1,5 +1,4 @@
-##<h2 align="center"> Hi there, I'm Victor Mannelli <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h2>
-
+<h2 align="center"> Hi there, I'm Victor Mannelli <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h2>
  
 - 🌱 I’m currently learning Full Stack Development at Driven Education
 - 👯 I’m looking to collaborate with other programmers
@@ -8,7 +7,7 @@
 - ⚡ Fun fact: I love anime
 
 <div align="center">
-  <h2> Contact me 🤝 <h2/>
+  <h1> Contact me 🤝 <h2/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
