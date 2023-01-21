@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:imp.mannelli@gmail.com)](mailto:imp.mannelli@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black=mailto:imp.mannelli@gmail.com)](mailto:imp.mannelli@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
 
 ### Languages 📝:
 
