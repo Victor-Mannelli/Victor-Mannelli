@@ -48,19 +48,19 @@
     <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
 </div>
-
+_____
 <div>
 <!--   <a href="http://www.python.org/" target="blank">
     <img width="80" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
   </a> -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="blank">
-    <img width="80" height="30" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
+    <img width="80" height="30" object-fit="contain" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&color=d84a2e" /> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
-    <img width="80" height="30" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
+    <img width="80" height="30" object-fit="contain" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&color=3173d9" /> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="blank">
-    <img width="80" height="30" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
+    <img width="80" height="30" object-fit="contain" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
   </a>
 </div>
 
