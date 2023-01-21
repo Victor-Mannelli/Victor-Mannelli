@@ -88,17 +88,6 @@
     <a href="https://tailwindcss.com/" target="blank">
       <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     </a>
-    <a href="https://code.visualstudio.com/" target="blank">
-      <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <a href="https://git-scm.com/" target="blank">
-      <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    </a>
-    <a href="https://www.figma.com/" target="blank">
-      <img align="center" alt="figma" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    </a>
-    <a href="https://kernel.org/" target="blank">
-      <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    </a>
   </div>
   <br/>
   <div align="center">
@@ -126,6 +115,28 @@
     <a href="https://tailwindcss.com/" target="blank">
        <img width="80" height="30" alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-blue?style=for-the-badge&color=38b2ac" /> 
     </a>
+  </div>
+</div>
+  
+* * * 
+
+<div>
+  <div align="center">
+    <h2> Other Tools 🛠 </h2>
+    <a href="https://code.visualstudio.com/" target="blank">
+      <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <a href="https://git-scm.com/" target="blank">
+      <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    </a>
+    <a href="https://www.figma.com/" target="blank">
+      <img align="center" alt="figma" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    </a>
+    <a href="https://kernel.org/" target="blank">
+      <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    </a>
+  </div>
+  <br/>
+  <div align="center">
     <a href="https://code.visualstudio.com/" target="blank">
        <img width="80" height="30" alt="code.visualstudio" src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
     </a>
