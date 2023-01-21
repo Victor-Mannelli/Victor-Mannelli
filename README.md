@@ -135,7 +135,7 @@
       <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </a>
     <a href="https://vercel.com/" target="blank">
-      <img align="center" alt="vercel" height"60" width="80" src="http://www.w3.org/2000/svg"/>
+      <img align="center" alt="vercel" height"60" width="80" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
     </a>
   </div>
   <br/>
