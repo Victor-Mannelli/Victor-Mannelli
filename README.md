@@ -11,7 +11,7 @@
 * * * 
 
 <h2 align="center"> Contact me 🤝 <h2/>
-<div align="center">
+<div>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
 </div>
@@ -21,7 +21,6 @@
 <!-- 
   <img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" />
   <img src="https://img.shields.io/badge/-typeorm-&?style=for-the-badge&logo=typeorm&color=black" alt="Typeorm logo" />
-  <img src="https://img.shields.io/badge/-Prisma-&?style=for-the-badge&logo=prisma&color=black" alt="Prisma logo" />
 -->
 
 
@@ -135,7 +134,7 @@
       <img align="center" alt="vercel" height"60" width="80" color="white" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
     </a>
     <a href="https://www.prisma.io/" target="blank">
-      <img align="center" alt="prisma" height"60" width="80" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png"/>
+      <img align="center" alt="prisma" height"60" width="80" src="https://www.svgrepo.com/show/373776/light-prisma.svg"/>
     </a>
 
   </div>
