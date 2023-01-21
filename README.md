@@ -123,7 +123,7 @@
 
 <div>
   <div align="center">
-    <h2> Other Tools 🧰 </h2>
+    <h2 align="center"> Other Tools 🧰 </h2>
     <a href="https://code.visualstudio.com/" target="blank">
       <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <a href="https://git-scm.com/" target="blank">
