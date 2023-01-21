@@ -12,8 +12,8 @@
 
 <h2 align="center"> Connect with me: <h2/>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&align=center)](mailto:imp.mannelli@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&align=center)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
 
 * * *
 
@@ -88,8 +88,19 @@
     <a href="https://tailwindcss.com/" target="blank">
       <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     </a>
-    <a href="" target="blank">
-      <img align="center" alt="" height"60" width="80" src="" />
+    <a href="https://code.visualstudio.com/" target="blank">
+      <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <a href="https://git-scm.com/" target="blank">
+      <img align="center" alt="git" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    </a>
+    <a href="https://www.figma.com/" target="blank">
+      <img align="center" alt="figma" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    </a>
+    <a href="https://www.mysql.com/" target="blank">
+      <img align="center" alt="mysql" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    </a>
+    <a href="https://kernel.org/" target="blank">
+      <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </a>
   </div>
   <br/>
@@ -118,9 +129,27 @@
     <a href="https://tailwindcss.com/" target="blank">
        <img width="80" height="30" src="https://img.shields.io/badge/-tailwindcss-blue?style=for-the-badge&color=38b2ac" /> 
     </a>
+    <a href="https://code.visualstudio.com/" target="blank">
+       <img width="80" height="30" src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
+    </a>
+    <a href="https://git-scm.com/" target="blank">
+       <img width="80" height="30" src="https://img.shields.io/badge/-git-blue?style=for-the-badge&color=f35034" /> 
+    </a>
+    <a href="https://www.figma.com/" target="blank">
+       <img width="80" height="30" src="https://img.shields.io/badge/-figma-blue?style=for-the-badge&color=e864a1" /> 
+    </a>
+    <a href="https://jupyter.org/" target="blank">
+       <img width="80" height="30" src="https://img.shields.io/badge/-jupiter-blue?style=for-the-badge&color=f3793a" /> 
+    </a>
+    <a href="https://www.mysql.com/" target="blank">
+       <img width="80" height="30" src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&color=00618a" /> 
+    </a>
+    <a href="https://kernel.org/" target="blank">
+       <img width="80" height="30" src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
+    </a>
   </div>
 </div>
-
+  
 ***
 
 <div align="center">
