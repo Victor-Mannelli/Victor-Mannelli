@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Victor - aka [Whicliph] 👋 </h2>
+<h2 align="center"> Hi there, I'm Victor Mannelli <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" </h2>
 
 ## About Me
 
