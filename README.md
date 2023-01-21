@@ -11,21 +11,18 @@
 * * * 
 
 <h2 align="center"> Contact me 🤝 <h2/>
-  
+<div align="center">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
+</div>
 
 * * *
 
-<!-- <div align="center">
+<!-- 
   <img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" />
   <img src="https://img.shields.io/badge/-typeorm-&?style=for-the-badge&logo=typeorm&color=black" alt="Typeorm logo" />
   <img src="https://img.shields.io/badge/-Prisma-&?style=for-the-badge&logo=prisma&color=black" alt="Prisma logo" />
-  <img src="https://img.shields.io/badge/-Github-&?style=for-the-badge&logo=github&color=black" alt="Github logo" />
-  <img src="https://img.shields.io/badge/-Git-&?style=for-the-badge&logo=git&color=black" alt="Git logo" />
-  <img src="https://img.shields.io/badge/-Vercel-&?style=for-the-badge&logo=vercel&color=black" alt="Vercel logo" />
-  <img src="https://img.shields.io/badge/-VSCode-&?style=for-the-badge&logo=visualstudiocode&color=black&logoColor=0076C6" alt="Visual studio code logo" />
-</div> -->
+-->
 
 
 <div align="center">
@@ -122,7 +119,7 @@
 
 <div>
   <div align="center">
-    <h2> Other Tools 🛠 </h2>
+    <h2> Other Tools 🧰 </h2>
     <a href="https://code.visualstudio.com/" target="blank">
       <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <a href="https://git-scm.com/" target="blank">
@@ -135,8 +132,12 @@
       <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </a>
     <a href="https://vercel.com/" target="blank">
-      <img align="center" alt="vercel" height"60" width="80" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
+      <img align="center" alt="vercel" height"60" width="80" color="white" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
     </a>
+    <a href="https://www.prisma.io/" target="blank">
+      <img align="center" alt="prisma" height"60" width="80" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png"/>
+    </a>
+
   </div>
   <br/>
   <div align="center">
@@ -155,7 +156,11 @@
     <a href="https://vercel.com/" target="blank">
        <img width="80" height="30" alt="vercel" src="https://img.shields.io/badge/-vercel-blue?style=for-the-badge&color=fff" /> 
     </a>
+    <a href="https://www.prisma.io/" target="blank">
+       <img width="80" height="30" alt="prisma" src="https://img.shields.io/badge/-prisma-blue?style=for-the-badge&color=071f2d" /> 
+    </a>
   </div>
+
 </div>
   
 ***
