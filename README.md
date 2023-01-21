@@ -89,6 +89,9 @@
     <a href="https://tailwindcss.com/" target="blank">
       <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     </a>
+    <a href="https://www.mongodb.com/home" target="blank">
+      <img align="center" alt="mongodb" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    </a>
   </div>
   <br/>
   <div align="center">
@@ -116,6 +119,9 @@
     <a href="https://tailwindcss.com/" target="blank">
        <img width="80" height="30" alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-blue?style=for-the-badge&color=38b2ac" /> 
     </a>
+    <a href="https://www.mongodb.com/home" target="blank">
+       <img width="80" height="30" alt="mongodb" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
+    </a>
   </div>
 </div>
   
@@ -138,9 +144,6 @@
     <a href="https://vercel.com/" target="blank">
       <img align="center" alt="vercel" height"60" width="80" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
     </a>
-    <a href="https://www.mongodb.com/home" target="blank">
-      <img align="center" alt="mongodb" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    </a>
   </div>
   <br/>
   <div align="center">
@@ -158,9 +161,6 @@
     </a>
     <a href="https://vercel.com/" target="blank">
        <img width="80" height="30" alt="vercel" src="https://img.shields.io/badge/-vercel-blue?style=for-the-badge&color=fff" /> 
-    </a>
-     <a href="https://www.mongodb.com/home" target="blank">
-       <img width="80" height="30" alt="mongodb" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
     </a>
   </div>
 
