@@ -17,7 +17,7 @@
   
   <h2> For more info check my website <h2/>
   <a href="https://curriculum-one-woad.vercel.app/" target="blank">
-    <img align="center" height="60" width="80" alt="My-Website" src="https://i.imgur.com/wnerVOg.png" />
+    <img align="center" height="80" width="80" alt="My-Website" src="https://i.imgur.com/wnerVOg.png" />
   </a>
   
 </div>
@@ -82,7 +82,7 @@
       <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     </a>
     <a href="https://jestjs.io/pt-BR/" target="blank">
-     <img align="center" alt="Jest" height"60" width="80" src="https://img.shields.io/style=for-the-badge&logo=jest&color=black" />
+     <img align="center" alt="Jest" height"60" width="80" src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Jest.svg" />
     </a>
   </div>
   <br/>
