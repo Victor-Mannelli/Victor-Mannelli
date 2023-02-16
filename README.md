@@ -17,7 +17,7 @@
   
   <h2> For more info check my website <h2/>
   <a href="https://curriculum-one-woad.vercel.app/" target="blank">
-    <img align="center" height="100" width="80" alt="My-Website" src="https://i.imgur.com/wnerVOg.png" />
+    <img align="center" height="90" width="80" alt="My-Website" src="https://i.imgur.com/wnerVOg.png" />
   </a>
   
 </div>
