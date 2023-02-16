@@ -17,7 +17,7 @@
   
   <h2> For more info check my website <h2/>
   <a href="https://curriculum-one-woad.vercel.app/" target="blank">
-    <img align="center" height="60" width="80" alt="My-Website" src="https://imgur.com/a/PiMrQ9t" />
+    <img align="center" height="60" width="80" alt="My-Website" src="https://i.imgur.com/wnerVOg.png" />
   </a>
   
 </div>
@@ -82,7 +82,7 @@
       <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     </a>
     <a href="https://jestjs.io/pt-BR/" target="blank">
-     <img align="center" alt="Jest" height"60" width="80" src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" />
+     <img align="center" alt="Jest" height"60" width="80" src="https://img.shields.io/style=for-the-badge&logo=jest&color=black" />
     </a>
   </div>
   <br/>
@@ -109,7 +109,7 @@
        <img width="80" height="30" alt="tailwindcss" src="https://img.shields.io/badge/-tailwindcss-blue?style=for-the-badge&color=38b2ac" /> 
     </a>
     <a href="https://jestjs.io/pt-BR/" target="blank">
-       <img width="80" height="30" alt="Jest" src="https://img.shields.io/badge/-Jest-blue?style=for-the-badge&color=15c213" /> 
+       <img width="80" height="30" alt="Jest" src="https://img.shields.io/badge/-Jest-blue?style=for-the-badge&color=73364f" /> 
     </a>
 <!--     <a href="https://typeorm.io/" target="blank">
        <img width="80" height="30" alt="Typeorm" src="https://img.shields.io/badge/-typeorm-&?style=for-the-badge&logo=typeorm&color=black" /> 
