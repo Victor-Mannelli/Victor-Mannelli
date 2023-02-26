@@ -134,10 +134,10 @@
       <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     </a>
     <a href="https://vercel.com/" target="blank">
-      <img align="center" alt="vercel" height"60" width="80" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/>
+      <img align="center" alt="vercel" height"60" width="80" src="https://github.com/jpb06/jpb06/raw/master/icons/Vercel-Dark.svg"/>
     </a>
     <a href="https://expressjs.com/" target="blank">
-      <img align="center" alt="express" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      <img align="center" alt="express" height"60" width="80" src="https://github.com/jpb06/jpb06/raw/master/icons/ExpressJS-Dark.svg" />
     </a>
     <a href="https://www.mongodb.com/home" target="blank">
       <img align="center" alt="mongodb" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
