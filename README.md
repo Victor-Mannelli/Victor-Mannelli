@@ -158,10 +158,10 @@
        <img width="80" height="30" alt="linux" src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
     </a>
     <a href="https://vercel.com/" target="blank">
-       <img width="80" height="30" alt="vercel" src="https://img.shields.io/badge/-vercel-blue?style=for-the-badge&color=fff" /> 
+       <img width="80" height="30" alt="vercel" src="https://img.shields.io/badge/-vercel-blue?style=for-the-badge&color=242938" /> 
     </a>
     <a href="https://expressjs.com/" target="blank">
-       <img width="80" height="30" alt="expressjs" src="https://img.shields.io/badge/-express-blue?style=for-the-badge&color=fff" /> 
+       <img width="80" height="30" alt="expressjs" src="https://img.shields.io/badge/-express-blue?style=for-the-badge&color=242938" /> 
     </a>
     <a href="https://www.mongodb.com/home" target="blank">
        <img width="80" height="30" alt="mongodb" src="https://img.shields.io/badge/-mongodb-blue?style=for-the-badge&color=439934" /> 
