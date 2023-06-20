@@ -1,8 +1,8 @@
 ***
 <h1 align="center"> Hi there, I'm Victor Mannelli <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h2>
  
-- 🌱 I’m currently learning Full Stack Development at Driven Education
-- 👯 I’m looking to collaborate with other programmers
+- 🌱 I’m currently working as a Full Stack Development at Grupo Dupla
+- 👯 I’m eaguer to learning even more
 - 😄 Pronouns: he/him
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love anime
