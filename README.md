@@ -16,7 +16,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
   
   <h2> For more info check my website <h2/>
-  <a href="https://curriculum-one-woad.vercel.app/" target="blank">
+  <a href="https://mannelli-curriculum.vercel.app/" target="blank">
     <img align="center" height="90" width="80" alt="My-Website" src="https://i.imgur.com/wnerVOg.png" />
   </a>
   
