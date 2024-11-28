@@ -1,4 +1,5 @@
-***
+---
+
 <h1 align="center"> Hi there, I'm Victor Mannelli <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h2>
  
 - 🌱 I’m currently working as a Full Stack Developer at Grupo Dupla
@@ -7,14 +8,14 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love anime
 
-***
+---
 
 <div align="center">
   <h2> Contact me 🤝 <h2/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imp.mannelli@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mendes-mannelli-740aa2246/)
-  
+
   <h2> For more info check my website <h2/>
   <a href="https://mannelli-curriculum.vercel.app/" target="_blank">
     <img align="center" height="90" width="80" alt="My-Website" src="https://i.imgur.com/wnerVOg.png" />
@@ -22,13 +23,10 @@
   
 </div>
 
-***
- 
+---
+
 <div align="center">
   <h2> Languages 📝 </h2>
-<!--   <a href="http://www.python.org/" target="blank">
-    <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  </a> -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/" target="_blank">
     <img align="center" height="60" width="80" alt="iconHTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   </a>
@@ -37,6 +35,11 @@
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="_blank">
     <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <a href="http://www.python.org/" target="_blank">
+    <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  </a>
+  <a href="https://go.dev" target="_blank">
+    <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" />
   </a>
 </div>
 <br/>
@@ -58,7 +61,7 @@
   </a>
 </div>
 
-* * * 
+---
 
 <div>
   <div align="center">
@@ -120,7 +123,7 @@
   </div>
 </div>
   
-* * * 
+* * *
 
 <div>
   <div align="center">
