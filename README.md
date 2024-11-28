@@ -36,11 +36,11 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="_blank">
     <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
+  <a href="https://go.dev" target="_blank">
+    <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  </a>
   <a href="http://www.python.org/" target="_blank">
     <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  </a>
-  <a href="https://go.dev" target="_blank">
-    <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg" />
   </a>
 </div>
 <br/>
@@ -55,10 +55,10 @@
     <img width="80" height="30" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&color=e9d54c" /> 
   </a>
   <a href="https://go.dev" target="_blank">
-   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> 
+   <img width="80" height="30" src="https://img.shields.io/badge/-Go-blue?style=for-the-badge&color=00acd7" /> 
   </a>
   <a href="http://www.python.org/" target="_blank">
-    <img width="80" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
+    <img width="80" height="30" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&color=f1d356" /> 
   </a>
 </div>
 
