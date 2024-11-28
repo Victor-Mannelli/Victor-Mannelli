@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center"> Hi there, I'm Victor Mannelli <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h2>
+<h1 align="center"> Hi there <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h1>
  
 - 🌱 I’m currently working as a Full Stack Developer at Grupo Dupla
 - 👯 I’m eaguer to learning even more
