@@ -35,6 +35,7 @@
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="_blank">
     <img align="center" height="60" width="80" alt="iconJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  </a>
   <a href="http://www.python.org/" target="_blank">
     <img align="center" height="60" width="80" alt="iconPython" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   </a>
