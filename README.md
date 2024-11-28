@@ -1,4 +1,4 @@
----
+***
 
 <h1 align="center"> Hi there <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h1>
  
@@ -8,7 +8,7 @@
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love anime
 
----
+***
 
 <div align="center">
   <h2> Contact me 🤝 <h2/>
@@ -23,7 +23,7 @@
   
 </div>
 
----
+***
 
 <div align="center">
   <h2> Languages 📝 </h2>
@@ -62,7 +62,7 @@
   </a>
 </div>
 
----
+***
 
 <div>
   <div align="center">
