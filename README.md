@@ -184,6 +184,6 @@
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Victor-Mannelli&show_icons=true&hide_border=true&theme=nord&bg_color=22272E&hide_rank=true" alt="Github Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Mannelli&layout=compact&hide_border=true&theme=nord&bg_color=22272E&card_width=250" alt="Languages" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Mannelli&layout=compact&hide_border=true&theme=nord&bg_color=22272E&card_width=250&hide=jupyter%20notebook" alt="Languages" />
   </a>
 </div>
