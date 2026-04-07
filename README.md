@@ -2,9 +2,8 @@
 
 <h1 align="center"> Hi there <img width="30" alt="waving-giff" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"/> </h1>
  
-- 🌱 I’m currently working as a Full Stack Developer at Grupo Dupla
+- Full Stack Developer with 4 years of experience
 - 👯 I’m eaguer to learning even more
-- 😄 Pronouns: he/him
 - 💬 Ask me about anything
 - ⚡ Fun fact: I love anime
 
